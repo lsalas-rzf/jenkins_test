@@ -39,3 +39,9 @@ Thumbs.db
 # CQ vault files # 
 ################## 
 *.vlt
+
+# Eclipse files #
+#################
+.settings
+.classpath
+.project

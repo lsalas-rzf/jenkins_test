@@ -34,19 +34,6 @@
         <url><!-- TODO --></url>
     </scm>
 
-    <distributionManagement>
-        <repository>
-            <id><!-- TODO --></id>
-            <name><!-- TODO --></name>
-            <url><!-- TODO --></url>
-        </repository>
-        <snapshotRepository>
-            <id><!-- TODO --></id>
-            <name><!-- TODO --></name>
-            <url><!-- TODO --></url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <modules>
         <module>cqblueprints-example-view</module>
         <module>cqblueprints-example-services</module>
